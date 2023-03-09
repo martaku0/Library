@@ -1,0 +1,34 @@
+﻿body {
+    display: flex;
+    justify-content: center;
+    color: #1d7874;
+    background-color: #e8cbb4;
+}
+
+form {
+    margin-top: 5%;
+    font-size: 24px;
+    display: flex;
+    flex-direction: column;
+    border: 3px solid #1d7874;
+    border-radius: 10px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+a {
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    background-color: #87a69f;
+    border: none;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: #1d7874;
+}
+
